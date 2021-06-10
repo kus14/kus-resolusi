@@ -1,0 +1,4 @@
+Kus resolusi
+- konsisten membuat konten minimal 1 minggu sekali
+- membuat platform pengelolaan video
+- membuat forum diskusi
